@@ -1,0 +1,7 @@
+{
+  "name": "node-udp",
+  "version": "1.0.0",
+  "author": "devnoot <devnoot@gmail.com>",
+  "repository": "https://github.com/devnoot/nodejs-udp-sockets.git",
+  "license": "MIT"
+}
