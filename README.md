@@ -1,5 +1,5 @@
 # nodejs-udp-sockets
-A simple, zero-dependency client/server implementation for sending and receiving UDP packets.
+A starter client/server implementation for sending and receiving UDP packets.
 
 ## Running
 
